@@ -1,6 +1,11 @@
-# Leonardo H. Morita
+# Olá, eu sou Leonardo Hideki Morita 👋
 
-Sou graduado em Ciência da Computação e especializado em Tecnologias para Aplicações Web. Já tenho quase 5 anos de experiência com desenvolvimento de sistemas. Atualmente estou trabalhando com Magento, fazendo manutenções e melhorias nos módulos para as lojas virtuais.
+🎓 **Ciência da Computação** | 📜 Pós-graduado em **Tecnologia para Aplicações Web**  
+💻 **Desenvolvedor Back-End** focado no ecossistema PHP e e-commerce.
+
+### 🚀 Tecnologias & Foco de Atuação
+* **Foco Principal (Back-End):** PHP | Magento (Atuação atual) | Laravel
+* **Outros Conhecimentos:** JavaScript | HTML & CSS | MySQL
 
 ### Conecte-se comigo
 
@@ -10,11 +15,12 @@ Sou graduado em Ciência da Computação e especializado em Tecnologias para Apl
 
 ### Habilidades
 
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 ![Magento](https://img.shields.io/badge/Magento-000?style=for-the-badge&logo=magento)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
